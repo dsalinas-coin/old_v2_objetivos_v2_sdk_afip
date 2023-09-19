@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loginTicketRequest version="1.0">
+    <header>
+        <uniqueId>[uniqueid]</uniqueId>
+        <generationTime>[fechaorigen]</generationTime>
+        <expirationTime>[fechafin]</expirationTime>
+    </header>
+    <service>[servicio]</service>
+</loginTicketRequest>
